@@ -1,7 +1,10 @@
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="docs/favicon.ico">
+</head>  
 
 # This is the README
 
-<link rel="shortcut icon" type="image/x-icon" href="docs/favicon.ico">
+
 
 Here is an image
 
