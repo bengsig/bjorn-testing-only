@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="docs/favicon.ico">
 # This is the README
 
 Here is an image
