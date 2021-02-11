@@ -6,4 +6,6 @@ This is just to show links work as expected.
 
 So here are is a link to readme:
 
+And now, [the rwlman page](man1/rwloadsim.html) is available.
+
 [README.md](README.md)
